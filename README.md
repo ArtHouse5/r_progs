@@ -1,1 +1,1 @@
-# r_progs
+Progs written during the reading of "R for Data Science" book 
